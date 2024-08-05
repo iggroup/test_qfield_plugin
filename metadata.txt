@@ -1,0 +1,5 @@
+[general]
+name=Hello World Plugin
+description=This is simple and brief description.
+author=OPENGIS.ch
+icon=logo.svg
